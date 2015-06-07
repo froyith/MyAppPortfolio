@@ -1,5 +1,15 @@
 package com.froyith.myappportfolio;
 
+
+/*
+Frank Smith
+6/7/2015
+My App Portfolio
+Project 0: Provides a launcher for Udacity Nanodegree projects
+for this first project, each button will TOAST a description of the button pressed
+ */
+
+
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
